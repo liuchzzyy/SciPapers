@@ -1,9 +1,9 @@
 [submodule "logseq-mcp"]
 	path = logseq-mcp
 	url = https://github.com/liuchzzyy/logseq-mcp.git
-[submodule "paper-feedder-mcp"]
-	path = paper-feedder-mcp
-	url = https://github.com/liuchzzyy/paper-feedder-mcp.git
+[submodule "feedder-mcp"]
+	path = feedder-mcp
+	url = https://github.com/liuchzzyy/feedder-mcp.git
 [submodule "zotero-mcp"]
 	path = zotero-mcp
 	url = https://github.com/liuchzzyy/zotero-mcp.git
