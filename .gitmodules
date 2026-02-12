@@ -7,3 +7,6 @@
 [submodule "zotero-mcp"]
 	path = zotero-mcp
 	url = https://github.com/liuchzzyy/zotero-mcp.git
+[submodule "academic-agent"]
+	path = academic-agent
+	url = https://github.com/liuchzzyy/academic-agent.git
